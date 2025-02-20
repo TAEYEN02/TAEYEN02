@@ -1,6 +1,5 @@
 ## 👩‍💻Project
 
-https://github.com/TAEYEN02/Edutainment.git
 <!--
 **TAEYEN02/TAEYEN02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
