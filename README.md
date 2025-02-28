@@ -14,4 +14,5 @@ Hi👩‍💻
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=taeyen02&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
 <img src="https://github.com/taeyen02/taeyen02/blob/output/github-snake-dark.svg" width="100%">
+
 ---
