@@ -15,4 +15,3 @@ Hi👩‍💻
 </a>
 <img src="https://github.com/taeyen02/taeyen02/blob/output/github-snake-dark.svg" width="100%">
 ---
-<a href="https://github.com/TAEYEN02/1.WEB.git">웹표준</a><image src="image/java_icon.jpeg" width="5%" height="5%"><image src="image/html_icon.ico" width="5%" height="5%"><image src="image/css_icon.png" width="4%" height="4%"> <image src="image/js_icon.png" width="5%" height="5%">
