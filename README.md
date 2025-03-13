@@ -3,7 +3,7 @@ Hi👩‍💻
 <details>
 <summary>About Me</summary>
     🚀주요 개발 포트폴리오 <br>
-        영유세 아동들을 위한 애듀테인먼트 앱 개발
+        </&nbsp>영유세 아동들을 위한 애듀테인먼트 앱 개발
 </details>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
