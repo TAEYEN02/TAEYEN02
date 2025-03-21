@@ -5,11 +5,10 @@ Hi👩‍💻
         <ul>
             <li>영유세 아동들을 위한 애듀테인먼트 앱 개발</li>
             <li>
-                <ul>나만의 PAGE 만들기
+                나만의 PAGE 만들기
                     <li>TODO</li>
                     <li>가계부</li>
                     <li>일정달력</li>
-                </ul>
             </li>
             <li>구상중...</li>
         </ul>
