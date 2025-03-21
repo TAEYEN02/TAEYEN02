@@ -1,6 +1,5 @@
 Hi👩‍💻
 ---
-<details>
 <summary>About Me</summary>
     🚀주요 개발 포트폴리오 <br>
         <ul>
@@ -8,17 +7,16 @@ Hi👩‍💻
             <li>나만의 PAGE 만들기 (~ing)</li>
             <li>구상중...</li>
         </ul>
-       
-</details>
-
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
+     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white" />&nbsp  
+     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/spring-288C28.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
-     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+
 </div>
 
 <br>
