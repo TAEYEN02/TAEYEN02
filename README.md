@@ -18,8 +18,10 @@ Hi👩‍💻
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white" />&nbsp
 </div>
-<h3 align="center">💻</h3>
-<img src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+<h3 align="center">💻... CollaborationTool</h3>
+<div align="center">
+    <img src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+</div>
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
