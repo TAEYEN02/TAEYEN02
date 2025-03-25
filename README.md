@@ -17,9 +17,9 @@ Hi👩‍💻
   <img src="https://img.shields.io/badge/spring-288C28.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white" />&nbsp
-
 </div>
-
+<h3 align="center">💻</h3>
+<img src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
