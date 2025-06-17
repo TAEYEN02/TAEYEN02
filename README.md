@@ -22,6 +22,7 @@ Hi👩‍💻
    <img src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+     <img src="https://img.shields.io/badge/CreateReactApp-09D3AC?style=for-the-badge&logo=createReactApp&logoColor=white">
    
 </div>
 <h3 align="center">💻... CollaborationTool</h3>
