@@ -7,7 +7,7 @@ Hi👩‍💻
             <li>React로 블로그 만들기 : https://app.taeyeon02.store/</li>
             <li>서울 혼잡도에 따른 관광지 파악하기(React) - 기획단계</li>
             <li>사용자 맞춤 여행 일정 자동 생성 & 지도 기반 여행 계획 플랫폼 : https://app.tripmateweb.store/ </li>
-            <li>사용자 맞춤 여행 일정 자동 생성 & 지도 기반 여행 계획 플랫폼 </li>
+            <li>사용자 맞춤 여행 일정 자동 생성 & 지도 기반 여행 계획 플랫폼 (앱)</li>
         </ul>
 <br>
 
