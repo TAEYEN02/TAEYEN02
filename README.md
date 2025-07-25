@@ -63,6 +63,6 @@
 
 ## 📫 Contact
 
-- Email: taeyeon02@naver.com  
+- Email: xodus2331@naver.com  
 - Portfolio: [taeyen02.github.io](https://taeyen02.github.io)
 
