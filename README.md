@@ -21,6 +21,7 @@
 
 - 📝 **React 블로그 개발**  
   → [https://app.taeyeon02.store](https://app.taeyeon02.store)
+  → 아이디 : kty2331 / 비밀번호 : patty2331@
 
 - 🗺️ **서울 관광지 혼잡도 분석 플랫폼** (기획 중)  
   → 혼잡도 기반 추천 기능 구상 및 데이터 수집 예정
