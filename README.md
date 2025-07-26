@@ -17,7 +17,7 @@
 
 - 🧸 **영유아 언어지연 완화 앱**  
   → 발음 분석 기반의 반복 학습 애듀테인먼트 앱  
-  → 사용 기술: React Native, Firebase, Google Speech API
+  → 사용 기술: Android Studio , Firebase, Google Speech API
 
 - 📝 **React 블로그 개발**  
   → [https://app.taeyeon02.store](https://app.taeyeon02.store)
