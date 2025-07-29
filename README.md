@@ -4,6 +4,10 @@
   <a href="https://taeyen02.github.io" target="_blank">
     <img src="https://img.shields.io/badge/📌%20Portfolio%20Web-taeyen02.github.io-blue?style=for-the-badge">
   </a>
+  
+  <a href="https://www.notion.so/TAEYEON-21c9363a2b3f80c4b4fcf01003a4d586?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/📓%20Notion%20Docs-notion.so-black?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
 </p>
 
 ---
