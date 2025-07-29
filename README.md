@@ -27,8 +27,9 @@
   → [https://app.taeyeon02.store](https://app.taeyeon02.store)
   → 아이디 : kty2331 / 비밀번호 : patty2331@
 
-- 🗺️ **서울 관광지 혼잡도 분석 플랫폼** (기획 중)  
-  → 혼잡도 기반 추천 기능 구상 및 데이터 수집 예정
+- 🗺️ **간단한 쇼핑몰 API 서버 구축** <br/>
+  → RESTful API 문서화 <br/>
+  → Spring Boot + JWT + MySQL + Swagger + Postman 으로 만드는 api 서버 구축
 
 - 🧭 **여행 일정 자동 생성 웹 & 앱**  
   → 사용자의 여행지 선택을 기반으로 일정을 자동 생성  
