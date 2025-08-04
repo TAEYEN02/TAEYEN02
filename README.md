@@ -33,7 +33,8 @@
 
 - 🧭 **여행 일정 자동 생성 웹 & 앱**  
   → 사용자의 여행지 선택을 기반으로 일정을 자동 생성  
-  → 웹: [https://app.tripmateweb.store](https://app.tripmateweb.store)  
+  → 웹: [https://www.tripmateweb.store/](https://www.tripmateweb.store/)
+  ↳ 아이디 : kty2331 비밀번호 : patty2331@
   → 앱: React Native로 구현 (앱스토어 미배포)
 
 ---
