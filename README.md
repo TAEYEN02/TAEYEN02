@@ -24,7 +24,7 @@
   → 사용 기술: Android Studio , Firebase, Google Speech API
 
 - 📝 **React 블로그 개발**  
-  → [https://app.taeyeon02.store](https://app.taeyeon02.store)
+  → [https://www.taeyeon02.store/](https://www.taeyeon02.store/)
   → 아이디 : kty2331 / 비밀번호 : patty2331@
 
 - 🗺️ **간단한 쇼핑몰 API 서버 구축** <br/>
