@@ -29,7 +29,8 @@
 
 - 🗺️ **간단한 쇼핑몰 API 서버 구축** <br/>
   → RESTful API 문서화 <br/>
-  → Spring Boot + JWT + MySQL + Swagger + Postman 으로 만드는 api 서버 구축
+  → Spring Boot + JWT + MySQL + Swagger + Postman 으로 만드는 api 서버 구축<br/>
+  → https://shoppingmallbackendapi-production.up.railway.app/swagger-ui/index.html
 
 - 🧭 **여행 일정 자동 생성 웹 & 앱**  
   → 사용자의 여행지 선택을 기반으로 일정을 자동 생성  
