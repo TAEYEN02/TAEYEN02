@@ -26,14 +26,13 @@
 
 - 📝 **React 블로그 개발**  
   → [https://www.taeyeon02.store/](https://www.taeyeon02.store/) <br/>
-  → 아이디 : kty2331 / 비밀번호 : patty2331@ <br/>
   → 기간 : 2025.06.20 - 2025.07.18 <br/>
 
 - 🗺️ **간단한 쇼핑몰 API 서버 구축** <br/>
   → RESTful API 문서화 <br/>
   → Spring Boot + JWT + MySQL + Swagger + Postman 으로 만드는 api 서버 구축<br/>
   → https://shoppingmallbackendapi-production.up.railway.app/swagger-ui/index.html <br/>
-  → 기간 : (개발)2025.07.26 ~ 2025.07.30  / (배포)2025.08.27 ~ 진행중
+  → 기간 : (개발)2025.07.26 ~ 2025.07.30 
   
 - 🧭 **여행 일정 자동 생성 웹 & 앱**  
   → 사용자의 여행지 선택을 기반으로 일정을 자동 생성  
